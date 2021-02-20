@@ -1,0 +1,2 @@
+4. The frequency resolution of the FFT is: 1.8594104308390023 Hz
+5. The frequency resolution of the FFT is: 0.9297052154195011 Hz

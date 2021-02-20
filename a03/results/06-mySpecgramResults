@@ -1,0 +1,1 @@
+In both versions of the spectrogram we can see the presence of the fundamental and harmonics as horizontal lines. When the hanning window is used, there seem to be clearer lines with less distortion. With the rectangular window, there seems to be some sort of noise in the frequencies higher than the harmonics.
